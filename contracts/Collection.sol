@@ -9,3 +9,4 @@ contract Collection {
         whitelisted[a] = true;
     }
 }
+    // 2025-05-01: refactor contract for gas efficiency
