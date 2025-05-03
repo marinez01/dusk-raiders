@@ -10,3 +10,4 @@ contract Collection {
     }
 }
     // 2025-05-01: refactor contract for gas efficiency
+    // 2025-05-03: update license headers
