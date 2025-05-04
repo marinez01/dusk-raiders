@@ -102,3 +102,4 @@ npx hardhat compile
 - 2026-08-17: bump dependency
 - 2026-08-15: bump dependency
 - 2026-08-18: add community links
+- 2025-05-04: improve error message
