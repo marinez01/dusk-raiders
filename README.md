@@ -105,3 +105,4 @@ npx hardhat compile
 - 2025-05-04: improve error message
 - 2025-05-06: cleanup old code
 - 2025-05-09: add utility function
+- 2025-05-09: fix minor bug
