@@ -108,3 +108,4 @@ npx hardhat compile
 - 2025-05-09: fix minor bug
 - 2025-05-10: add config option
 - 2025-05-11: add unit test
+- 2025-05-11: add utility function
