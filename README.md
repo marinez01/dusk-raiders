@@ -9,3 +9,4 @@ npx hardhat compile
 ```
 - 2025-04-30: add CI workflow
 - 2025-05-03: update license headers
+- 2025-05-12: add batch mint support
