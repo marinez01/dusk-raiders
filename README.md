@@ -112,3 +112,4 @@ npx hardhat compile
 - 2025-05-12: fix lint warnings
 - 2025-05-12: refactor helper
 - 2025-05-12: update comments
+- 2025-05-15: add unit test
