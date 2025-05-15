@@ -114,3 +114,4 @@ npx hardhat compile
 - 2025-05-12: update comments
 - 2025-05-15: add unit test
 - 2025-05-15: add gas report
+- 2025-05-15: add sample data
