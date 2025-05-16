@@ -117,3 +117,4 @@ npx hardhat compile
 - 2025-05-15: add sample data
 - 2025-05-15: document behavior
 - 2025-05-16: improve error message
+- 2025-05-16: add sample data
