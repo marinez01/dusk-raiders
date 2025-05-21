@@ -122,3 +122,4 @@ npx hardhat compile
 - 2025-05-17: add config option
 - 2025-05-18: improve error message
 - 2025-05-18: update comments
+- 2025-05-21: add sample data
