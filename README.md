@@ -123,3 +123,4 @@ npx hardhat compile
 - 2025-05-18: improve error message
 - 2025-05-18: update comments
 - 2025-05-21: add sample data
+- 2025-05-23: add utility function
