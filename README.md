@@ -125,3 +125,4 @@ npx hardhat compile
 - 2025-05-21: add sample data
 - 2025-05-23: add utility function
 - 2025-05-23: document behavior
+- 2025-05-23: refactor helper
