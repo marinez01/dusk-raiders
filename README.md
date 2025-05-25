@@ -126,3 +126,4 @@ npx hardhat compile
 - 2025-05-23: add utility function
 - 2025-05-23: document behavior
 - 2025-05-23: refactor helper
+- 2025-05-25: bump patch version
