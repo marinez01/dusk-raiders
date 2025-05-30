@@ -135,3 +135,4 @@ npx hardhat compile
 - 2025-05-29: improve error message
 - 2025-05-29: cleanup old code
 - 2025-05-30: add unit test
+- 2025-05-30: add sample data
