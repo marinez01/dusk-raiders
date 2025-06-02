@@ -138,3 +138,4 @@ npx hardhat compile
 - 2025-05-30: add sample data
 - 2025-05-30: bump patch version
 - 2025-06-02: fix minor bug
+- 2025-06-02: add unit test
