@@ -11,3 +11,4 @@ npx hardhat compile
 - 2025-05-03: update license headers
 - 2025-05-12: add batch mint support
 - 2025-05-17: document deployment steps
+- 2025-06-03: clean up unused imports
