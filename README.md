@@ -140,3 +140,4 @@ npx hardhat compile
 - 2025-06-02: fix minor bug
 - 2025-06-02: add unit test
 - 2025-06-03: add utility function
+- 2025-06-03: update styling
