@@ -4,3 +4,4 @@
 - 2025-05-01: add frontend skeleton
 - 2025-05-16: add CI workflow
 - 2025-06-03: add events for tracking
+- 2025-06-04: add security notes
