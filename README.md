@@ -144,3 +144,4 @@ npx hardhat compile
 - 2025-06-03: bump patch version
 - 2025-06-04: update comments
 - 2025-06-07: improve error message
+- 2025-06-08: add config option
