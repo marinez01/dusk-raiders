@@ -15,3 +15,4 @@ npx hardhat compile
 - 2025-06-03: update license headers
 - 2025-06-05: improve error handling in deploy script
 - 2025-06-09: add CI workflow
+- 2025-06-10: optimize loop in tokenURI
