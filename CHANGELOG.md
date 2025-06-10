@@ -6,3 +6,4 @@
 - 2025-06-03: add events for tracking
 - 2025-06-04: add security notes
 - 2025-06-04: update contract to latest compiler
+- 2025-06-10: update README with setup instructions
