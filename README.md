@@ -149,3 +149,4 @@ npx hardhat compile
 - 2025-06-11: add sample data
 - 2025-06-11: add unit test
 - 2025-06-12: fix minor bug
+- 2025-06-12: add config option
