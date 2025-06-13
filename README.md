@@ -151,3 +151,4 @@ npx hardhat compile
 - 2025-06-12: fix minor bug
 - 2025-06-12: add config option
 - 2025-06-12: update deploy scripts
+- 2025-06-13: update deploy scripts
