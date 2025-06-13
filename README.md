@@ -154,3 +154,4 @@ npx hardhat compile
 - 2025-06-13: update deploy scripts
 - 2025-06-13: improve error message
 - 2025-06-13: update styling
+- 2025-06-13: update styling
