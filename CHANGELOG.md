@@ -8,3 +8,4 @@
 - 2025-06-04: update contract to latest compiler
 - 2025-06-10: update README with setup instructions
 - 2025-06-10: style landing page
+- 2025-06-13: tweak gas limits in config
