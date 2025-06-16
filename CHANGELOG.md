@@ -11,3 +11,4 @@
 - 2025-06-13: tweak gas limits in config
 - 2025-06-14: add whitelist merkle verification
 - 2025-06-16: update license headers
+- 2025-06-16: add security notes
