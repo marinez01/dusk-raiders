@@ -16,3 +16,4 @@ contract Collection {
     // 2025-06-03: tweak gas limits in config
     // 2025-06-13: improve error handling in deploy script
     // 2025-06-16: add security notes
+    // 2025-06-17: add initial project scaffold
