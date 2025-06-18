@@ -158,3 +158,4 @@ npx hardhat compile
 - 2025-06-16: cleanup old code
 - 2025-06-17: document behavior
 - 2025-06-18: refactor helper
+- 2025-06-18: add feature flag
