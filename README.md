@@ -162,3 +162,4 @@ npx hardhat compile
 - 2025-06-19: document behavior
 - 2025-06-19: document behavior
 - 2025-06-21: add unit test
+- 2025-06-21: add config option
