@@ -164,3 +164,4 @@ npx hardhat compile
 - 2025-06-21: add unit test
 - 2025-06-21: add config option
 - 2025-06-21: bump patch version
+- 2025-06-21: add feature flag
