@@ -17,3 +17,4 @@ npx hardhat compile
 - 2025-06-09: add CI workflow
 - 2025-06-10: optimize loop in tokenURI
 - 2025-06-23: configure hardhat network
+- 2025-06-26: optimize loop in tokenURI
