@@ -166,3 +166,4 @@ npx hardhat compile
 - 2025-06-21: bump patch version
 - 2025-06-21: add feature flag
 - 2025-06-30: add utility function
+- 2025-07-01: refactor helper
