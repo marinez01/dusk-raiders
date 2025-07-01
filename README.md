@@ -168,3 +168,4 @@ npx hardhat compile
 - 2025-06-30: add utility function
 - 2025-07-01: refactor helper
 - 2025-07-01: document behavior
+- 2025-07-01: update deploy scripts
