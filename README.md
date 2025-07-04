@@ -171,3 +171,4 @@ npx hardhat compile
 - 2025-07-01: update deploy scripts
 - 2025-07-03: update deploy scripts
 - 2025-07-03: refactor helper
+- 2025-07-04: fix lint warnings
