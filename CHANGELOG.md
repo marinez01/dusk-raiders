@@ -12,3 +12,4 @@
 - 2025-06-14: add whitelist merkle verification
 - 2025-06-16: update license headers
 - 2025-06-16: add security notes
+- 2025-07-06: fix edge case in royalty calculation
