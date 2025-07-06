@@ -18,3 +18,4 @@ npx hardhat compile
 - 2025-06-10: optimize loop in tokenURI
 - 2025-06-23: configure hardhat network
 - 2025-06-26: optimize loop in tokenURI
+- 2025-07-06: fix edge case in royalty calculation
