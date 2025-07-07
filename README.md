@@ -20,3 +20,4 @@ npx hardhat compile
 - 2025-06-26: optimize loop in tokenURI
 - 2025-07-06: fix edge case in royalty calculation
 - 2025-07-07: reduce contract size
+- 2025-07-07: refactor contract for gas efficiency
