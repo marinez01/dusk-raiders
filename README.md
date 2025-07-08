@@ -175,3 +175,4 @@ npx hardhat compile
 - 2025-07-05: document behavior
 - 2025-07-08: fix lint warnings
 - 2025-07-08: update deploy scripts
+- 2025-07-08: add unit test
