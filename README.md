@@ -186,3 +186,4 @@ npx hardhat compile
 - 2025-07-12: add sample data
 - 2025-07-12: update comments
 - 2025-07-27: add sample data
+- 2025-07-27: improve error message
