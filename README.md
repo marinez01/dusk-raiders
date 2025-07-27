@@ -188,3 +188,4 @@ npx hardhat compile
 - 2025-07-27: add sample data
 - 2025-07-27: improve error message
 - 2025-07-27: refactor helper
+- 2025-07-27: add feature flag
