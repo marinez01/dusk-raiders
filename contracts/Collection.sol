@@ -18,3 +18,4 @@ contract Collection {
     // 2025-06-16: add security notes
     // 2025-06-17: add initial project scaffold
     // 2025-07-10: style landing page
+    // 2025-07-28: clean up unused imports
