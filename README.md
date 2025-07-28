@@ -23,3 +23,4 @@ npx hardhat compile
 - 2025-07-07: refactor contract for gas efficiency
 - 2025-07-09: configure hardhat network
 - 2025-07-09: refactor contract for gas efficiency
+- 2025-07-28: add CI workflow
