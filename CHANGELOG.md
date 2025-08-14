@@ -15,3 +15,4 @@
 - 2025-07-06: fix edge case in royalty calculation
 - 2025-07-10: add whitelist merkle verification
 - 2025-07-30: add events for tracking
+- 2025-08-14: add events for tracking
