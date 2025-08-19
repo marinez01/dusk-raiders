@@ -192,3 +192,4 @@ npx hardhat compile
 - 2025-07-30: add config option
 - 2025-08-01: add gas report
 - 2025-08-19: add config option
+- 2025-08-19: refactor helper
