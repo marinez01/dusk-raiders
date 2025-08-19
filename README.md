@@ -194,3 +194,4 @@ npx hardhat compile
 - 2025-08-19: add config option
 - 2025-08-19: refactor helper
 - 2025-08-19: update comments
+- 2025-08-19: fix lint warnings
