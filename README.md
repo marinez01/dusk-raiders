@@ -196,3 +196,4 @@ npx hardhat compile
 - 2025-08-19: update comments
 - 2025-08-19: fix lint warnings
 - 2025-08-20: cleanup old code
+- 2025-08-21: add sample data
