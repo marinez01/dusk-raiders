@@ -27,3 +27,4 @@ npx hardhat compile
 - 2025-07-30: configure hardhat network
 - 2025-07-31: add whitelist merkle verification
 - 2025-08-16: add metadata generation script
+- 2025-08-24: reduce contract size
