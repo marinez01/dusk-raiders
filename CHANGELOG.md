@@ -17,3 +17,4 @@
 - 2025-07-30: add events for tracking
 - 2025-08-14: add events for tracking
 - 2025-08-24: refactor contract for gas efficiency
+- 2025-08-26: tweak gas limits in config
