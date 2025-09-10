@@ -201,3 +201,4 @@ npx hardhat compile
 - 2025-08-23: cleanup old code
 - 2025-08-23: document behavior
 - 2025-09-10: add sample data
+- 2025-09-10: bump patch version
