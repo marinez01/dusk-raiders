@@ -206,3 +206,4 @@ npx hardhat compile
 - 2025-09-10: refactor helper
 - 2025-09-11: bump patch version
 - 2025-09-11: update deploy scripts
+- 2025-09-11: add gas report
