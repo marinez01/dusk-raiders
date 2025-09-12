@@ -24,3 +24,4 @@ contract Collection {
     // 2025-08-26: fix edge case in royalty calculation
     // 2025-08-26: clean up unused imports
     // 2025-09-07: add security notes
+    // 2025-09-12: add opensea metadata standard fields
