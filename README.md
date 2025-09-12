@@ -209,3 +209,4 @@ npx hardhat compile
 - 2025-09-11: add gas report
 - 2025-09-11: cleanup old code
 - 2025-09-12: add feature flag
+- 2025-09-12: update comments
