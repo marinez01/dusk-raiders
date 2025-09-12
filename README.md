@@ -31,3 +31,4 @@ npx hardhat compile
 - 2025-08-26: update README with setup instructions
 - 2025-08-29: configure hardhat network
 - 2025-08-29: configure hardhat network
+- 2025-09-12: improve error handling in deploy script
