@@ -33,3 +33,4 @@ npx hardhat compile
 - 2025-08-29: configure hardhat network
 - 2025-09-12: improve error handling in deploy script
 - 2025-09-12: fix nonce handling in mint
+- 2025-09-16: update contract to latest compiler
