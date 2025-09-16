@@ -21,3 +21,4 @@
 - 2025-08-29: fix small issue in mint logic
 - 2025-09-07: fix small issue in mint logic
 - 2025-09-13: improve error handling in deploy script
+- 2025-09-16: fix edge case in royalty calculation
