@@ -23,3 +23,4 @@
 - 2025-09-13: improve error handling in deploy script
 - 2025-09-16: fix edge case in royalty calculation
 - 2025-09-19: document deployment steps
+- 2025-09-19: add events for tracking
