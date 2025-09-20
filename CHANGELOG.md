@@ -24,3 +24,4 @@
 - 2025-09-16: fix edge case in royalty calculation
 - 2025-09-19: document deployment steps
 - 2025-09-19: add events for tracking
+- 2025-09-20: update README with setup instructions
