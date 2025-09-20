@@ -36,3 +36,4 @@ npx hardhat compile
 - 2025-09-16: update contract to latest compiler
 - 2025-09-19: add frontend skeleton
 - 2025-09-20: update README with setup instructions
+- 2025-09-20: add batch mint support
