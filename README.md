@@ -218,3 +218,4 @@ npx hardhat compile
 - 2025-09-23: document behavior
 - 2025-09-23: add utility function
 - 2025-09-24: fix lint warnings
+- 2025-09-24: improve error message
