@@ -220,3 +220,4 @@ npx hardhat compile
 - 2025-09-24: fix lint warnings
 - 2025-09-24: improve error message
 - 2025-09-27: add gas report
+- 2025-09-27: fix minor bug
