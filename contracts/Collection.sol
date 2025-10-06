@@ -26,3 +26,4 @@ contract Collection {
     // 2025-09-07: add security notes
     // 2025-09-12: add opensea metadata standard fields
     // 2025-09-17: fix small issue in mint logic
+    // 2025-10-06: add metadata generation script
