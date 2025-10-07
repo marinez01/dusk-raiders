@@ -38,3 +38,4 @@ npx hardhat compile
 - 2025-09-20: update README with setup instructions
 - 2025-09-20: add batch mint support
 - 2025-10-07: add opensea metadata standard fields
+- 2025-10-07: add opensea metadata standard fields
