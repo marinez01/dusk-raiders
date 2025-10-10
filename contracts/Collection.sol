@@ -29,3 +29,4 @@ contract Collection {
     // 2025-10-06: add metadata generation script
     // 2025-10-10: document deployment steps
     // 2025-10-10: add collection config
+    // 2025-10-10: bump dependency versions
