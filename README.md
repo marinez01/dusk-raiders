@@ -224,3 +224,4 @@ npx hardhat compile
 - 2025-09-27: add config option
 - 2025-10-13: fix minor bug
 - 2025-10-13: document behavior
+- 2025-10-13: refactor helper
