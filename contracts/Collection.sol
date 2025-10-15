@@ -30,3 +30,4 @@ contract Collection {
     // 2025-10-10: document deployment steps
     // 2025-10-10: add collection config
     // 2025-10-10: bump dependency versions
+    // 2025-10-15: add whitelist merkle verification
