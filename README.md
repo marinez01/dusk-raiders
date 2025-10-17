@@ -226,3 +226,4 @@ npx hardhat compile
 - 2025-10-13: document behavior
 - 2025-10-13: refactor helper
 - 2025-10-13: add feature flag
+- 2025-10-17: fix lint warnings
