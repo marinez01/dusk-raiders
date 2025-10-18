@@ -232,3 +232,4 @@ npx hardhat compile
 - 2025-10-17: bump patch version
 - 2025-10-18: add sample data
 - 2025-10-18: update styling
+- 2025-10-18: fix minor bug
