@@ -230,3 +230,4 @@ npx hardhat compile
 - 2025-10-17: update deploy scripts
 - 2025-10-17: improve error message
 - 2025-10-17: bump patch version
+- 2025-10-18: add sample data
