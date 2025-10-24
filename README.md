@@ -41,3 +41,4 @@ npx hardhat compile
 - 2025-10-07: add opensea metadata standard fields
 - 2025-10-22: optimize loop in tokenURI
 - 2025-10-23: add batch mint support
+- 2025-10-24: add pinata upload helper
