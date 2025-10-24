@@ -27,3 +27,4 @@
 - 2025-09-20: update README with setup instructions
 - 2025-10-06: add events for tracking
 - 2025-10-18: optimize loop in tokenURI
+- 2025-10-24: fix edge case in royalty calculation
