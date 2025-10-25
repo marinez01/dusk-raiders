@@ -32,3 +32,4 @@ contract Collection {
     // 2025-10-10: bump dependency versions
     // 2025-10-15: add whitelist merkle verification
     // 2025-10-25: add collection config
+    // 2025-10-25: wire up wallet connect
