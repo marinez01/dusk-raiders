@@ -42,3 +42,4 @@ npx hardhat compile
 - 2025-10-22: optimize loop in tokenURI
 - 2025-10-23: add batch mint support
 - 2025-10-24: add pinata upload helper
+- 2025-10-26: add whitelist merkle verification
