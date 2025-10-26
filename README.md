@@ -234,3 +234,4 @@ npx hardhat compile
 - 2025-10-18: update styling
 - 2025-10-18: fix minor bug
 - 2025-10-26: fix lint warnings
+- 2025-10-26: add feature flag
