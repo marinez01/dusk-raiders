@@ -29,3 +29,4 @@
 - 2025-10-18: optimize loop in tokenURI
 - 2025-10-24: fix edge case in royalty calculation
 - 2025-10-24: add metadata generation script
+- 2025-10-28: refactor contract for gas efficiency
