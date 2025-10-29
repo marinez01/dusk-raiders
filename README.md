@@ -240,3 +240,4 @@ npx hardhat compile
 - 2025-10-29: fix lint warnings
 - 2025-10-29: update deploy scripts
 - 2025-10-29: update styling
+- 2025-10-29: fix lint warnings
