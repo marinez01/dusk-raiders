@@ -242,3 +242,4 @@ npx hardhat compile
 - 2025-10-29: update styling
 - 2025-10-29: fix lint warnings
 - 2025-10-30: add sample data
+- 2025-10-30: add gas report
