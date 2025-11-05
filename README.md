@@ -247,3 +247,4 @@ npx hardhat compile
 - 2025-10-30: refactor helper
 - 2025-11-03: improve error message
 - 2025-11-05: add sample data
+- 2025-11-05: bump patch version
