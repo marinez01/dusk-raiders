@@ -249,3 +249,4 @@ npx hardhat compile
 - 2025-11-05: add sample data
 - 2025-11-05: bump patch version
 - 2025-11-05: add config option
+- 2025-11-06: add gas report
