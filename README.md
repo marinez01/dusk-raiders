@@ -251,3 +251,4 @@ npx hardhat compile
 - 2025-11-05: add config option
 - 2025-11-06: add gas report
 - 2025-11-07: refactor helper
+- 2025-11-07: add sample data
