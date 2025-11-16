@@ -31,3 +31,4 @@
 - 2025-10-24: add metadata generation script
 - 2025-10-28: refactor contract for gas efficiency
 - 2025-10-28: add CI workflow
+- 2025-11-16: add events for tracking
