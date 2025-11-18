@@ -253,3 +253,4 @@ npx hardhat compile
 - 2025-11-07: refactor helper
 - 2025-11-07: add sample data
 - 2025-11-17: update comments
+- 2025-11-18: add sample data
