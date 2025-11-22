@@ -45,3 +45,4 @@ npx hardhat compile
 - 2025-10-26: add whitelist merkle verification
 - 2025-10-28: tweak gas limits in config
 - 2025-11-16: bump dependency versions
+- 2025-11-22: add batch mint support
