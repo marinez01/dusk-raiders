@@ -257,3 +257,4 @@ npx hardhat compile
 - 2025-11-20: fix lint warnings
 - 2025-11-20: fix minor bug
 - 2025-11-20: fix lint warnings
+- 2025-11-22: document behavior
