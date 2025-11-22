@@ -34,3 +34,4 @@ contract Collection {
     // 2025-10-25: add collection config
     // 2025-10-25: wire up wallet connect
     // 2025-11-17: add security notes
+    // 2025-11-22: wire up wallet connect
