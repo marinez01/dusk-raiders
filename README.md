@@ -47,3 +47,4 @@ npx hardhat compile
 - 2025-11-16: bump dependency versions
 - 2025-11-22: add batch mint support
 - 2025-11-22: add frontend skeleton
+- 2025-11-23: style landing page
