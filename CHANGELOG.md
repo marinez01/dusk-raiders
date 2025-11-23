@@ -32,3 +32,4 @@
 - 2025-10-28: refactor contract for gas efficiency
 - 2025-10-28: add CI workflow
 - 2025-11-16: add events for tracking
+- 2025-11-23: refactor contract for gas efficiency
