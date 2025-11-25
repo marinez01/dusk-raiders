@@ -48,3 +48,4 @@ npx hardhat compile
 - 2025-11-22: add batch mint support
 - 2025-11-22: add frontend skeleton
 - 2025-11-23: style landing page
+- 2025-11-25: fix small issue in mint logic
