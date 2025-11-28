@@ -35,3 +35,4 @@
 - 2025-11-23: refactor contract for gas efficiency
 - 2025-11-27: fix edge case in royalty calculation
 - 2025-11-28: update README with setup instructions
+- 2025-11-28: update license headers
