@@ -39,3 +39,4 @@
 - 2025-11-30: bump dependency versions
 - 2025-11-30: add tests for the allowlist
 - 2025-11-30: optimize loop in tokenURI
+- 2025-12-01: add .env.example
