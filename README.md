@@ -263,3 +263,4 @@ npx hardhat compile
 - 2025-12-01: add config option
 - 2025-12-01: cleanup old code
 - 2025-12-03: document behavior
+- 2025-12-03: cleanup old code
