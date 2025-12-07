@@ -50,3 +50,4 @@ npx hardhat compile
 - 2025-11-23: style landing page
 - 2025-11-25: fix small issue in mint logic
 - 2025-11-28: add whitelist merkle verification
+- 2025-12-07: update README with setup instructions
