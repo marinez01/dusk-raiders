@@ -52,3 +52,4 @@ npx hardhat compile
 - 2025-11-28: add whitelist merkle verification
 - 2025-12-07: update README with setup instructions
 - 2025-12-11: add frontend skeleton
+- 2025-12-11: add pinata upload helper
