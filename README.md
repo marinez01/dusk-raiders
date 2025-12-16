@@ -269,3 +269,4 @@ npx hardhat compile
 - 2025-12-06: cleanup old code
 - 2025-12-14: cleanup old code
 - 2025-12-16: update styling
+- 2025-12-16: add sample data
