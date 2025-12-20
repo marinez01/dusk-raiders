@@ -272,3 +272,4 @@ npx hardhat compile
 - 2025-12-16: add sample data
 - 2025-12-18: add feature flag
 - 2025-12-19: fix lint warnings
+- 2025-12-20: update styling
