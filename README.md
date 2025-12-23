@@ -277,3 +277,4 @@ npx hardhat compile
 - 2025-12-21: bump patch version
 - 2025-12-21: add utility function
 - 2025-12-23: add gas report
+- 2025-12-23: bump patch version
