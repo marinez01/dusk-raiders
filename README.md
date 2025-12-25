@@ -279,3 +279,4 @@ npx hardhat compile
 - 2025-12-23: add gas report
 - 2025-12-23: bump patch version
 - 2025-12-25: bump patch version
+- 2025-12-25: add unit test
