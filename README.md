@@ -281,3 +281,4 @@ npx hardhat compile
 - 2025-12-25: bump patch version
 - 2025-12-25: add unit test
 - 2025-12-25: fix minor bug
+- 2025-12-25: document behavior
