@@ -42,3 +42,4 @@
 - 2025-12-01: add .env.example
 - 2025-12-07: add security notes
 - 2025-12-27: add initial project scaffold
+- 2025-12-27: add opensea metadata standard fields
