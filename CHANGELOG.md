@@ -43,3 +43,4 @@
 - 2025-12-07: add security notes
 - 2025-12-27: add initial project scaffold
 - 2025-12-27: add opensea metadata standard fields
+- 2025-12-27: optimize loop in tokenURI
