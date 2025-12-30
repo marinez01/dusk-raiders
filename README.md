@@ -289,3 +289,4 @@ npx hardhat compile
 - 2025-12-27: fix minor bug
 - 2025-12-27: update comments
 - 2025-12-30: add sample data
+- 2025-12-30: update deploy scripts
