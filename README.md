@@ -292,3 +292,4 @@ npx hardhat compile
 - 2025-12-30: update deploy scripts
 - 2025-12-30: document behavior
 - 2025-12-30: document behavior
+- 2025-12-31: add unit test
