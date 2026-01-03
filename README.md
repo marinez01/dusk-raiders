@@ -297,3 +297,4 @@ npx hardhat compile
 - 2026-01-01: improve error message
 - 2026-01-01: bump patch version
 - 2026-01-02: add utility function
+- 2026-01-03: cleanup old code
