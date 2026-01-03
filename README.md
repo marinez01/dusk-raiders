@@ -299,3 +299,4 @@ npx hardhat compile
 - 2026-01-02: add utility function
 - 2026-01-03: cleanup old code
 - 2026-01-03: add feature flag
+- 2026-01-03: improve error message
