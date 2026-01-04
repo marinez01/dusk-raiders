@@ -44,3 +44,4 @@
 - 2025-12-27: add initial project scaffold
 - 2025-12-27: add opensea metadata standard fields
 - 2025-12-27: optimize loop in tokenURI
+- 2026-01-04: add pinata upload helper
