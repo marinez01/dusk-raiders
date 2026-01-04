@@ -300,3 +300,4 @@ npx hardhat compile
 - 2026-01-03: cleanup old code
 - 2026-01-03: add feature flag
 - 2026-01-03: improve error message
+- 2026-01-04: fix lint warnings
