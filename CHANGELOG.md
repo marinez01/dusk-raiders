@@ -45,3 +45,4 @@
 - 2025-12-27: add opensea metadata standard fields
 - 2025-12-27: optimize loop in tokenURI
 - 2026-01-04: add pinata upload helper
+- 2026-01-04: tweak gas limits in config
