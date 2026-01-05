@@ -37,3 +37,4 @@ contract Collection {
     // 2025-11-22: wire up wallet connect
     // 2025-11-25: wire up wallet connect
     // 2025-12-11: document deployment steps
+    // 2026-01-05: add tests for the allowlist
