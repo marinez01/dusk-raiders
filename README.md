@@ -305,3 +305,4 @@ npx hardhat compile
 - 2026-01-04: refactor helper
 - 2026-01-06: add feature flag
 - 2026-01-06: bump patch version
+- 2026-01-06: add utility function
