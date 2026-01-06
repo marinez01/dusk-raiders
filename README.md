@@ -304,3 +304,4 @@ npx hardhat compile
 - 2026-01-04: add gas report
 - 2026-01-04: refactor helper
 - 2026-01-06: add feature flag
+- 2026-01-06: bump patch version
