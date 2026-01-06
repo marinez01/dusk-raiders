@@ -303,3 +303,4 @@ npx hardhat compile
 - 2026-01-04: fix lint warnings
 - 2026-01-04: add gas report
 - 2026-01-04: refactor helper
+- 2026-01-06: add feature flag
