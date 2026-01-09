@@ -308,3 +308,4 @@ npx hardhat compile
 - 2026-01-06: add utility function
 - 2026-01-09: refactor helper
 - 2026-01-09: fix lint warnings
+- 2026-01-09: improve error message
