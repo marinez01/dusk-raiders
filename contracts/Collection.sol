@@ -39,3 +39,4 @@ contract Collection {
     // 2025-12-11: document deployment steps
     // 2026-01-05: add tests for the allowlist
     // 2026-01-10: add tests for the allowlist
+    // 2026-01-11: add .env.example
