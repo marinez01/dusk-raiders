@@ -56,3 +56,4 @@ npx hardhat compile
 - 2025-12-24: update license headers
 - 2025-12-27: fix small issue in mint logic
 - 2026-01-04: style landing page
+- 2026-01-12: add collection config
