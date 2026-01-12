@@ -50,3 +50,4 @@
 - 2026-01-11: update license headers
 - 2026-01-12: clean up unused imports
 - 2026-01-12: optimize loop in tokenURI
+- 2026-01-12: add whitelist merkle verification
