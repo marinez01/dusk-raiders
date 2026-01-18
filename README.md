@@ -311,3 +311,4 @@ npx hardhat compile
 - 2026-01-09: improve error message
 - 2026-01-10: document behavior
 - 2026-01-10: bump patch version
+- 2026-01-18: add sample data
