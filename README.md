@@ -316,3 +316,4 @@ npx hardhat compile
 - 2026-01-19: update comments
 - 2026-01-19: add utility function
 - 2026-01-20: add utility function
+- 2026-01-20: refactor helper
