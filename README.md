@@ -318,3 +318,4 @@ npx hardhat compile
 - 2026-01-20: add utility function
 - 2026-01-20: refactor helper
 - 2026-01-20: add gas report
+- 2026-01-20: update styling
