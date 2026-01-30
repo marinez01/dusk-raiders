@@ -322,3 +322,4 @@ npx hardhat compile
 - 2026-01-25: cleanup old code
 - 2026-01-29: update comments
 - 2026-01-29: add sample data
+- 2026-01-30: refactor helper
