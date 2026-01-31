@@ -324,3 +324,4 @@ npx hardhat compile
 - 2026-01-29: add sample data
 - 2026-01-30: refactor helper
 - 2026-01-30: add utility function
+- 2026-01-31: fix lint warnings
