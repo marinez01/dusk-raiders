@@ -329,3 +329,4 @@ npx hardhat compile
 - 2026-02-04: update comments
 - 2026-02-04: fix minor bug
 - 2026-02-04: add unit test
+- 2026-02-05: add sample data
