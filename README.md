@@ -333,3 +333,4 @@ npx hardhat compile
 - 2026-02-05: document behavior
 - 2026-02-05: update comments
 - 2026-02-06: add utility function
+- 2026-02-07: add gas report
