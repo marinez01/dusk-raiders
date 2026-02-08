@@ -337,3 +337,4 @@ npx hardhat compile
 - 2026-02-08: document behavior
 - 2026-02-08: add utility function
 - 2026-02-08: add config option
+- 2026-02-08: add config option
