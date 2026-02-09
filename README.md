@@ -338,3 +338,4 @@ npx hardhat compile
 - 2026-02-08: add utility function
 - 2026-02-08: add config option
 - 2026-02-08: add config option
+- 2026-02-09: add gas report
