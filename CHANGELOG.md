@@ -54,3 +54,4 @@
 - 2026-01-15: clean up unused imports
 - 2026-02-02: add metadata generation script
 - 2026-02-07: fix nonce handling in mint
+- 2026-02-09: add CI workflow
