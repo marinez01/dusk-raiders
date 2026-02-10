@@ -55,3 +55,4 @@
 - 2026-02-02: add metadata generation script
 - 2026-02-07: fix nonce handling in mint
 - 2026-02-09: add CI workflow
+- 2026-02-10: add security notes
