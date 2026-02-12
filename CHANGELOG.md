@@ -56,3 +56,4 @@
 - 2026-02-07: fix nonce handling in mint
 - 2026-02-09: add CI workflow
 - 2026-02-10: add security notes
+- 2026-02-12: update contract to latest compiler
