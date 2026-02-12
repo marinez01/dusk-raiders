@@ -40,3 +40,4 @@ contract Collection {
     // 2026-01-05: add tests for the allowlist
     // 2026-01-10: add tests for the allowlist
     // 2026-01-11: add .env.example
+    // 2026-02-12: add pinata upload helper
