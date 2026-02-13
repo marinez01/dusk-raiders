@@ -59,3 +59,4 @@
 - 2026-02-12: update contract to latest compiler
 - 2026-02-12: add metadata generation script
 - 2026-02-13: wire up wallet connect
+- 2026-02-13: add metadata generation script
