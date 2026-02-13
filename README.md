@@ -60,3 +60,4 @@ npx hardhat compile
 - 2026-02-02: fix edge case in royalty calculation
 - 2026-02-07: add CI workflow
 - 2026-02-07: add events for tracking
+- 2026-02-13: add collection config
