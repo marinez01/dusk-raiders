@@ -341,3 +341,4 @@ npx hardhat compile
 - 2026-02-09: add gas report
 - 2026-02-12: refactor helper
 - 2026-02-12: document behavior
+- 2026-02-14: add gas report
