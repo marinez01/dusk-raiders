@@ -62,3 +62,4 @@ npx hardhat compile
 - 2026-02-07: add events for tracking
 - 2026-02-13: add collection config
 - 2026-02-13: fix edge case in royalty calculation
+- 2026-02-14: configure hardhat network
