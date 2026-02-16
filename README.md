@@ -344,3 +344,4 @@ npx hardhat compile
 - 2026-02-14: add gas report
 - 2026-02-14: add gas report
 - 2026-02-16: improve error message
+- 2026-02-16: add gas report
