@@ -346,3 +346,4 @@ npx hardhat compile
 - 2026-02-16: improve error message
 - 2026-02-16: add gas report
 - 2026-02-19: add utility function
+- 2026-02-19: add utility function
