@@ -60,3 +60,4 @@
 - 2026-02-12: add metadata generation script
 - 2026-02-13: wire up wallet connect
 - 2026-02-13: add metadata generation script
+- 2026-02-20: fix nonce handling in mint
