@@ -350,3 +350,4 @@ npx hardhat compile
 - 2026-02-20: document behavior
 - 2026-02-20: add utility function
 - 2026-02-20: bump patch version
+- 2026-02-21: add utility function
