@@ -64,3 +64,4 @@ npx hardhat compile
 - 2026-02-13: fix edge case in royalty calculation
 - 2026-02-14: configure hardhat network
 - 2026-02-25: fix nonce handling in mint
+- 2026-02-28: fix nonce handling in mint
