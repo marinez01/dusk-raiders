@@ -65,3 +65,4 @@ npx hardhat compile
 - 2026-02-14: configure hardhat network
 - 2026-02-25: fix nonce handling in mint
 - 2026-02-28: fix nonce handling in mint
+- 2026-02-28: wire up wallet connect
