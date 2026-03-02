@@ -66,3 +66,4 @@ npx hardhat compile
 - 2026-02-25: fix nonce handling in mint
 - 2026-02-28: fix nonce handling in mint
 - 2026-02-28: wire up wallet connect
+- 2026-03-02: bump dependency versions
