@@ -62,3 +62,4 @@
 - 2026-02-13: add metadata generation script
 - 2026-02-20: fix nonce handling in mint
 - 2026-02-21: add .env.example
+- 2026-03-02: update license headers
