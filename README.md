@@ -68,3 +68,4 @@ npx hardhat compile
 - 2026-02-28: wire up wallet connect
 - 2026-03-02: bump dependency versions
 - 2026-03-04: document deployment steps
+- 2026-03-07: add tests for the allowlist
