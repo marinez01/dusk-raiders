@@ -352,3 +352,4 @@ npx hardhat compile
 - 2026-02-20: bump patch version
 - 2026-02-21: add utility function
 - 2026-03-08: bump patch version
+- 2026-03-09: add sample data
