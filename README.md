@@ -356,3 +356,4 @@ npx hardhat compile
 - 2026-03-09: add unit test
 - 2026-03-10: update deploy scripts
 - 2026-03-10: add feature flag
+- 2026-03-10: update deploy scripts
