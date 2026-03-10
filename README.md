@@ -354,3 +354,4 @@ npx hardhat compile
 - 2026-03-08: bump patch version
 - 2026-03-09: add sample data
 - 2026-03-09: add unit test
+- 2026-03-10: update deploy scripts
