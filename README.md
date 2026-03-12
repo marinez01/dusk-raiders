@@ -358,3 +358,4 @@ npx hardhat compile
 - 2026-03-10: add feature flag
 - 2026-03-10: update deploy scripts
 - 2026-03-10: add gas report
+- 2026-03-12: fix minor bug
