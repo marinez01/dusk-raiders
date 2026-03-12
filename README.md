@@ -359,3 +359,4 @@ npx hardhat compile
 - 2026-03-10: update deploy scripts
 - 2026-03-10: add gas report
 - 2026-03-12: fix minor bug
+- 2026-03-12: improve error message
