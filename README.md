@@ -361,3 +361,4 @@ npx hardhat compile
 - 2026-03-12: fix minor bug
 - 2026-03-12: improve error message
 - 2026-03-14: add feature flag
+- 2026-03-15: fix minor bug
