@@ -365,3 +365,4 @@ npx hardhat compile
 - 2026-03-15: refactor helper
 - 2026-03-15: add utility function
 - 2026-03-16: fix minor bug
+- 2026-03-16: add unit test
