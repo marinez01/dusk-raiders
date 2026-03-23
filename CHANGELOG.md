@@ -63,3 +63,4 @@
 - 2026-02-20: fix nonce handling in mint
 - 2026-02-21: add .env.example
 - 2026-03-02: update license headers
+- 2026-03-23: add .env.example
