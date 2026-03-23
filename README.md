@@ -70,3 +70,4 @@ npx hardhat compile
 - 2026-03-04: document deployment steps
 - 2026-03-07: add tests for the allowlist
 - 2026-03-13: add CI workflow
+- 2026-03-23: fix small issue in mint logic
