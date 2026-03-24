@@ -374,3 +374,4 @@ npx hardhat compile
 - 2026-03-21: refactor helper
 - 2026-03-21: update comments
 - 2026-03-24: fix minor bug
+- 2026-03-24: update deploy scripts
