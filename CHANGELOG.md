@@ -65,3 +65,4 @@
 - 2026-03-02: update license headers
 - 2026-03-23: add .env.example
 - 2026-03-24: style landing page
+- 2026-03-24: reduce contract size
