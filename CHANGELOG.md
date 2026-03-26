@@ -67,3 +67,4 @@
 - 2026-03-24: style landing page
 - 2026-03-24: reduce contract size
 - 2026-03-26: bump dependency versions
+- 2026-03-26: document deployment steps
