@@ -72,3 +72,4 @@ npx hardhat compile
 - 2026-03-13: add CI workflow
 - 2026-03-23: fix small issue in mint logic
 - 2026-03-24: update README with setup instructions
+- 2026-03-26: add security notes
