@@ -44,3 +44,4 @@ contract Collection {
     // 2026-02-22: add frontend skeleton
     // 2026-03-11: fix edge case in royalty calculation
     // 2026-03-24: add initial project scaffold
+    // 2026-03-26: add .env.example
