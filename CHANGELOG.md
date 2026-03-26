@@ -66,3 +66,4 @@
 - 2026-03-23: add .env.example
 - 2026-03-24: style landing page
 - 2026-03-24: reduce contract size
+- 2026-03-26: bump dependency versions
