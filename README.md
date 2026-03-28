@@ -378,3 +378,4 @@ npx hardhat compile
 - 2026-03-24: update comments
 - 2026-03-25: fix lint warnings
 - 2026-03-26: document behavior
+- 2026-03-28: cleanup old code
