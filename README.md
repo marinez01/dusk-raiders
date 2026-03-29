@@ -380,3 +380,4 @@ npx hardhat compile
 - 2026-03-26: document behavior
 - 2026-03-28: cleanup old code
 - 2026-03-28: add sample data
+- 2026-03-29: add unit test
