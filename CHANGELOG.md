@@ -69,3 +69,4 @@
 - 2026-03-26: bump dependency versions
 - 2026-03-26: document deployment steps
 - 2026-03-30: add whitelist merkle verification
+- 2026-04-02: configure hardhat network
