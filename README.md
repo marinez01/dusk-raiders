@@ -391,3 +391,4 @@ npx hardhat compile
 - 2026-04-01: bump patch version
 - 2026-04-01: add gas report
 - 2026-04-01: fix minor bug
+- 2026-04-04: add gas report
