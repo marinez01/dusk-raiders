@@ -71,3 +71,4 @@
 - 2026-03-30: add whitelist merkle verification
 - 2026-04-02: configure hardhat network
 - 2026-04-02: add collection config
+- 2026-04-04: update license headers
