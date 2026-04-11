@@ -398,3 +398,4 @@ npx hardhat compile
 - 2026-04-10: fix minor bug
 - 2026-04-11: add gas report
 - 2026-04-11: add sample data
+- 2026-04-11: refactor helper
