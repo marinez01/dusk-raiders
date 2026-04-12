@@ -400,3 +400,4 @@ npx hardhat compile
 - 2026-04-11: add sample data
 - 2026-04-11: refactor helper
 - 2026-04-12: add sample data
+- 2026-04-12: cleanup old code
