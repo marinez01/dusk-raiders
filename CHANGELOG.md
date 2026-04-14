@@ -72,3 +72,4 @@
 - 2026-04-02: configure hardhat network
 - 2026-04-02: add collection config
 - 2026-04-04: update license headers
+- 2026-04-14: fix edge case in royalty calculation
