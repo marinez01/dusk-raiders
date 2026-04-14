@@ -46,3 +46,4 @@ contract Collection {
     // 2026-03-24: add initial project scaffold
     // 2026-03-26: add .env.example
     // 2026-04-04: add metadata generation script
+    // 2026-04-14: style landing page
