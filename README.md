@@ -404,3 +404,4 @@ npx hardhat compile
 - 2026-04-13: add utility function
 - 2026-04-15: fix lint warnings
 - 2026-04-15: refactor helper
+- 2026-04-15: add config option
