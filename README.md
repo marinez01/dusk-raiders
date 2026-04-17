@@ -75,3 +75,4 @@ npx hardhat compile
 - 2026-03-26: add security notes
 - 2026-04-04: update contract to latest compiler
 - 2026-04-04: add tests for the allowlist
+- 2026-04-17: update contract to latest compiler
