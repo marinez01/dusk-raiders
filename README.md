@@ -407,3 +407,4 @@ npx hardhat compile
 - 2026-04-15: add config option
 - 2026-04-19: add gas report
 - 2026-04-19: add unit test
+- 2026-04-21: cleanup old code
