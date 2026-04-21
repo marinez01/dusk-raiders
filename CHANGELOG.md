@@ -74,3 +74,4 @@
 - 2026-04-04: update license headers
 - 2026-04-14: fix edge case in royalty calculation
 - 2026-04-21: add events for tracking
+- 2026-04-21: add frontend skeleton
