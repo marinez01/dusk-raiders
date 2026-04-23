@@ -413,3 +413,4 @@ npx hardhat compile
 - 2026-04-23: refactor helper
 - 2026-04-23: bump patch version
 - 2026-04-23: add gas report
+- 2026-04-23: improve error message
