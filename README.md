@@ -416,3 +416,4 @@ npx hardhat compile
 - 2026-04-23: improve error message
 - 2026-04-25: improve error message
 - 2026-04-28: refactor helper
+- 2026-04-29: improve error message
