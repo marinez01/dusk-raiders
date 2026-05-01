@@ -77,3 +77,4 @@ npx hardhat compile
 - 2026-04-04: add tests for the allowlist
 - 2026-04-17: update contract to latest compiler
 - 2026-05-01: add pinata upload helper
+- 2026-05-01: add tests for the allowlist
