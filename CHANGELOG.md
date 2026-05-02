@@ -77,3 +77,4 @@
 - 2026-04-21: add frontend skeleton
 - 2026-04-22: add events for tracking
 - 2026-04-29: fix edge case in royalty calculation
+- 2026-05-02: style landing page
