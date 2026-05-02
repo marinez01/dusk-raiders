@@ -419,3 +419,4 @@ npx hardhat compile
 - 2026-04-29: improve error message
 - 2026-04-30: add sample data
 - 2026-05-02: add gas report
+- 2026-05-02: fix lint warnings
