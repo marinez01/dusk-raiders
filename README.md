@@ -421,3 +421,4 @@ npx hardhat compile
 - 2026-05-02: add gas report
 - 2026-05-02: fix lint warnings
 - 2026-05-02: update styling
+- 2026-05-04: add utility function
