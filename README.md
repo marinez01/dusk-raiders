@@ -425,3 +425,4 @@ npx hardhat compile
 - 2026-05-05: add feature flag
 - 2026-05-05: add feature flag
 - 2026-05-05: add feature flag
+- 2026-05-08: add config option
