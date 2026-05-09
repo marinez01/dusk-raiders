@@ -428,3 +428,4 @@ npx hardhat compile
 - 2026-05-08: add config option
 - 2026-05-08: update styling
 - 2026-05-09: update deploy scripts
+- 2026-05-09: add feature flag
