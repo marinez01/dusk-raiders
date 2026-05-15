@@ -434,3 +434,4 @@ npx hardhat compile
 - 2026-05-11: improve error message
 - 2026-05-12: fix lint warnings
 - 2026-05-12: bump patch version
+- 2026-05-15: fix lint warnings
