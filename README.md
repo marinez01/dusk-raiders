@@ -436,3 +436,4 @@ npx hardhat compile
 - 2026-05-12: bump patch version
 - 2026-05-15: fix lint warnings
 - 2026-05-15: add gas report
+- 2026-05-16: add config option
