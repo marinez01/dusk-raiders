@@ -438,3 +438,4 @@ npx hardhat compile
 - 2026-05-15: add gas report
 - 2026-05-16: add config option
 - 2026-05-17: update comments
+- 2026-05-17: add config option
