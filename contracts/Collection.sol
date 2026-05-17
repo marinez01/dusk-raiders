@@ -48,3 +48,4 @@ contract Collection {
     // 2026-04-04: add metadata generation script
     // 2026-04-14: style landing page
     // 2026-04-30: style landing page
+    // 2026-05-17: add opensea metadata standard fields
