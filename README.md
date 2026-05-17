@@ -79,3 +79,4 @@ npx hardhat compile
 - 2026-05-01: add pinata upload helper
 - 2026-05-01: add tests for the allowlist
 - 2026-05-02: refactor contract for gas efficiency
+- 2026-05-17: document deployment steps
