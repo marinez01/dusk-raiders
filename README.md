@@ -441,3 +441,4 @@ npx hardhat compile
 - 2026-05-17: add config option
 - 2026-05-18: add sample data
 - 2026-05-18: add utility function
+- 2026-05-18: add utility function
