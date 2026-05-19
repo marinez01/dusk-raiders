@@ -49,3 +49,4 @@ contract Collection {
     // 2026-04-14: style landing page
     // 2026-04-30: style landing page
     // 2026-05-17: add opensea metadata standard fields
+    // 2026-05-19: configure hardhat network
