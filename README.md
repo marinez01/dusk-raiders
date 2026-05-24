@@ -446,3 +446,4 @@ npx hardhat compile
 - 2026-05-21: add config option
 - 2026-05-21: add unit test
 - 2026-05-24: add feature flag
+- 2026-05-24: cleanup old code
