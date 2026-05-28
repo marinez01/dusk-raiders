@@ -449,3 +449,4 @@ npx hardhat compile
 - 2026-05-24: cleanup old code
 - 2026-05-25: add gas report
 - 2026-05-25: update styling
+- 2026-05-28: add config option
