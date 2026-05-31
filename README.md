@@ -83,3 +83,4 @@ npx hardhat compile
 - 2026-05-19: optimize loop in tokenURI
 - 2026-05-20: fix small issue in mint logic
 - 2026-05-21: refactor contract for gas efficiency
+- 2026-05-31: add metadata generation script
