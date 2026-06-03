@@ -453,3 +453,4 @@ npx hardhat compile
 - 2026-05-31: refactor helper
 - 2026-06-01: add config option
 - 2026-06-03: cleanup old code
+- 2026-06-03: add sample data
