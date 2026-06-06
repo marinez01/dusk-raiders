@@ -51,3 +51,4 @@ contract Collection {
     // 2026-05-17: add opensea metadata standard fields
     // 2026-05-19: configure hardhat network
     // 2026-06-01: refactor contract for gas efficiency
+    // 2026-06-06: document deployment steps
