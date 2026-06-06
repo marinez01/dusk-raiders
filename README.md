@@ -86,3 +86,4 @@ npx hardhat compile
 - 2026-05-31: add metadata generation script
 - 2026-06-01: improve error handling in deploy script
 - 2026-06-01: add events for tracking
+- 2026-06-06: style landing page
