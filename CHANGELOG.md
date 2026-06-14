@@ -81,3 +81,4 @@
 - 2026-05-17: add opensea metadata standard fields
 - 2026-05-21: add collection config
 - 2026-05-31: add collection config
+- 2026-06-14: add CI workflow
