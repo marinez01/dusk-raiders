@@ -456,3 +456,4 @@ npx hardhat compile
 - 2026-06-03: add sample data
 - 2026-06-05: cleanup old code
 - 2026-06-05: update comments
+- 2026-06-15: update deploy scripts
