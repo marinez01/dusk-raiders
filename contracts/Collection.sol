@@ -52,3 +52,4 @@ contract Collection {
     // 2026-05-19: configure hardhat network
     // 2026-06-01: refactor contract for gas efficiency
     // 2026-06-06: document deployment steps
+    // 2026-06-15: add batch mint support
