@@ -463,3 +463,4 @@ npx hardhat compile
 - 2026-06-16: improve error message
 - 2026-06-17: add gas report
 - 2026-06-17: update styling
+- 2026-06-19: document behavior
