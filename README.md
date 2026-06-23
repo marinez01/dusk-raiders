@@ -466,3 +466,4 @@ npx hardhat compile
 - 2026-06-19: document behavior
 - 2026-06-19: add unit test
 - 2026-06-19: add feature flag
+- 2026-06-23: add unit test
