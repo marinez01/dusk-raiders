@@ -468,3 +468,4 @@ npx hardhat compile
 - 2026-06-19: add feature flag
 - 2026-06-23: add unit test
 - 2026-06-23: add gas report
+- 2026-06-25: update deploy scripts
