@@ -469,3 +469,4 @@ npx hardhat compile
 - 2026-06-23: add unit test
 - 2026-06-23: add gas report
 - 2026-06-25: update deploy scripts
+- 2026-06-27: improve error message
