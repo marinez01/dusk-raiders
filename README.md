@@ -472,3 +472,4 @@ npx hardhat compile
 - 2026-06-27: improve error message
 - 2026-07-01: add feature flag
 - 2026-07-01: improve error message
+- 2026-07-03: fix lint warnings
