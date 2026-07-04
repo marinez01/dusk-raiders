@@ -477,3 +477,4 @@ npx hardhat compile
 - 2026-07-03: add feature flag
 - 2026-07-03: add config option
 - 2026-07-04: update deploy scripts
+- 2026-07-04: add sample data
