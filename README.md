@@ -88,3 +88,4 @@ npx hardhat compile
 - 2026-06-01: add events for tracking
 - 2026-06-06: style landing page
 - 2026-06-15: add pinata upload helper
+- 2026-07-05: wire up wallet connect
