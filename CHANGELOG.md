@@ -83,3 +83,4 @@
 - 2026-05-31: add collection config
 - 2026-06-14: add CI workflow
 - 2026-07-05: fix edge case in royalty calculation
+- 2026-07-07: update license headers
