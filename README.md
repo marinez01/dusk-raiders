@@ -91,3 +91,4 @@ npx hardhat compile
 - 2026-07-05: wire up wallet connect
 - 2026-07-14: optimize loop in tokenURI
 - 2026-07-14: add pinata upload helper
+- 2026-07-15: style landing page
