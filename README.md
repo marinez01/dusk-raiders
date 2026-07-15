@@ -480,3 +480,4 @@ npx hardhat compile
 - 2026-07-04: add sample data
 - 2026-07-12: add feature flag
 - 2026-07-15: bump patch version
+- 2026-07-15: add unit test
