@@ -482,3 +482,4 @@ npx hardhat compile
 - 2026-07-15: bump patch version
 - 2026-07-15: add unit test
 - 2026-07-16: add config option
+- 2026-07-16: fix minor bug
