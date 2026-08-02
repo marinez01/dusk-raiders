@@ -485,3 +485,4 @@ npx hardhat compile
 - 2026-07-16: fix minor bug
 - 2026-07-16: add gas report
 - 2026-07-16: refactor helper
+- 2026-08-02: add utility function
