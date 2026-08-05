@@ -92,3 +92,4 @@ npx hardhat compile
 - 2026-07-14: optimize loop in tokenURI
 - 2026-07-14: add pinata upload helper
 - 2026-07-15: style landing page
+- 2026-08-05: update README with setup instructions
