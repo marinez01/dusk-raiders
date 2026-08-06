@@ -94,3 +94,4 @@ npx hardhat compile
 - 2026-07-15: style landing page
 - 2026-08-05: update README with setup instructions
 - 2026-08-06: wire up wallet connect
+- 2026-08-06: add security notes
