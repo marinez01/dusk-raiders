@@ -490,3 +490,4 @@ npx hardhat compile
 - 2026-08-04: add config option
 - 2026-08-06: update styling
 - 2026-08-07: bump patch version
+- 2026-08-07: update comments
