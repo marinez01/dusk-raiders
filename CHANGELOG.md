@@ -85,3 +85,4 @@
 - 2026-07-05: fix edge case in royalty calculation
 - 2026-07-07: update license headers
 - 2026-07-07: add pinata upload helper
+- 2026-08-07: update README with setup instructions
