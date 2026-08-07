@@ -95,3 +95,4 @@ npx hardhat compile
 - 2026-08-05: update README with setup instructions
 - 2026-08-06: wire up wallet connect
 - 2026-08-06: add security notes
+- 2026-08-07: add initial project scaffold
