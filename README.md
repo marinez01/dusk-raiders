@@ -493,3 +493,4 @@ npx hardhat compile
 - 2026-08-07: update comments
 - 2026-08-07: bump patch version
 - 2026-08-08: add utility function
+- 2026-08-08: update deploy scripts
