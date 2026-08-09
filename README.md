@@ -497,3 +497,4 @@ npx hardhat compile
 - 2026-08-08: cleanup old code
 - 2026-08-09: add unit test
 - 2026-08-09: cleanup old code
+- 2026-08-09: fix minor bug
