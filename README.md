@@ -499,3 +499,4 @@ npx hardhat compile
 - 2026-08-09: cleanup old code
 - 2026-08-09: fix minor bug
 - 2026-08-09: add feature flag
+- 2026-08-11: add feature flag
