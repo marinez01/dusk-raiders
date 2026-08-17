@@ -86,3 +86,4 @@
 - 2026-07-07: update license headers
 - 2026-07-07: add pinata upload helper
 - 2026-08-07: update README with setup instructions
+- 2026-08-17: add events for tracking
