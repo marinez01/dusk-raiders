@@ -101,3 +101,4 @@ npx hardhat compile
 - 2026-08-19: tweak gas limits in config
 - 2026-08-17: bump dependency
 - 2026-08-15: bump dependency
+- 2026-08-18: add community links
