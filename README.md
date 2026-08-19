@@ -97,3 +97,4 @@ npx hardhat compile
 - 2026-08-06: add security notes
 - 2026-08-07: add initial project scaffold
 - 2026-08-17: add .env.example
+- 2026-08-19: add .env.example
